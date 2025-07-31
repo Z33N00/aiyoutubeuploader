@@ -1,0 +1,1 @@
+# Full Whisper caption logic here

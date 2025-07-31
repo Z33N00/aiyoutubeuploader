@@ -1,0 +1,1 @@
+# Full Pillow emoji text overlay here
